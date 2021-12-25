@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="610b2051-c31c-487c-ba19-fbc45846ea19" name="Changes" comment="" />
+    <list default="true" id="610b2051-c31c-487c-ba19-fbc45846ea19" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.png" beforeDir="false" afterPath="$PROJECT_DIR$/model.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi label.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/multi label.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi_labeled_df.csv" beforeDir="false" afterPath="$PROJECT_DIR$/multi_labeled_df.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single label.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/single label.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single_labeled_df.csv" beforeDir="false" afterPath="$PROJECT_DIR$/single_labeled_df.csv" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +19,17 @@
       <list>
         <option value="Jupyter Notebook" />
       </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
     </option>
   </component>
   <component name="Git.Settings">
@@ -29,7 +47,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="22coXRVth0JiAYw82seZDBA7HPR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -66,8 +86,19 @@
       <workItem from="1640317659593" duration="400000" />
       <workItem from="1640318225236" duration="267000" />
       <workItem from="1640318592705" duration="12470000" />
-      <workItem from="1640332883214" duration="12399000" />
+      <workItem from="1640332883214" duration="12445000" />
+      <workItem from="1640349934795" duration="214000" />
+      <workItem from="1640355070443" duration="194000" />
+      <workItem from="1640399478562" duration="4592000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1640349139657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640349139657</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,5 +111,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
